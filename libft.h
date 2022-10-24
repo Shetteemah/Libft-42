@@ -6,7 +6,7 @@
 /*   By: sheali <sheali@student.42.fr>              +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2022/03/31 23:13:50 by sheali            #+#    #+#             */
-/*   Updated: 2022/10/11 02:28:11 by sheali           ###   ########.fr       */
+/*   Updated: 2022/10/24 05:49:39 by sheali           ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -21,5 +21,6 @@
 int				ft_isalnum(int c);
 int				ft_isalpha(int c);
 int				ft_isdigit(int c);
+int				ft_isascii(int c);
 
 #endif
