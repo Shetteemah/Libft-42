@@ -1,2 +1,12 @@
 <h1> libft_42 </h1>
 When one doesn't have access to the incredibly handy standard functions, programming in C can be rather tiresome. This project aids in comprehending, implementing, and learning how to use these functions. I built a library from scratch. Since I'll be using it in my upcoming C programming projects, it will be handy. As I identify functions I frequently use in my C programming projects, I will be regularly updating my libft library.
+
+<h3> List of functions </h3>
+<ul>
+<li> ft_isalnum </li>
+<li> ft_isalpha </li>
+<li> ft_isdigit </li>
+<li> ft_isascii </li>
+<li> ft_isprint </li>
+<li> libft.h </li>
+</ul>
