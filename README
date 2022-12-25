@@ -8,5 +8,6 @@ When one doesn't have access to the incredibly handy standard functions, program
 <li> ft_isdigit </li>
 <li> ft_isascii </li>
 <li> ft_isprint </li>
+<li> ft_putchar </li>
 <li> libft.h </li>
 </ul>
