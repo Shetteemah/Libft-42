@@ -10,6 +10,7 @@ When one doesn't have access to the incredibly handy standard functions, program
 <li> ft_isprint </li>
 <li> ft_putchar </li>
 <li> ft_bzero </li>
+<li> ft_itoa </li>
 <li> ft_calloc </li>
 <li> libft.h </li>
 
