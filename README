@@ -13,6 +13,8 @@ When one doesn't have access to the incredibly handy standard functions, program
 <li> ft_itoa </li>
 <li> ft_calloc </li>
 <li> ft_lstadd_back </li>
+<li> ft_lstadd_front </li>
+<li> ft_lstadd_front </li>
 <li> libft.h </li>
 
 </ul>
